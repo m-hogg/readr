@@ -26,3 +26,9 @@ A website to help users track their reading list, progress, and history
 - Pages read per day
 - Most common genres
 - 1 Year ago today...
+
+5. APIs
+- Search different APIs to see where to buy/download books
+- Google Books
+- Amazon?
+- Goodreads
