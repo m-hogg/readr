@@ -1,11 +1,7 @@
 <template>
   <div class="flex">
-    <div class="w-1/4">
-      fjkjds
-    </div>
-    <div class="w-1/2">
-      <div class="border-current rounded-lg bg-white mt-5">
-        <div class="p-5 mt-5 text-3xl">Reading List</div>
+    <div class="w-3/4">
+      <div>
         <book-list />
       </div>  
     </div>
