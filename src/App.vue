@@ -1,12 +1,9 @@
 <template>
-  <div id="app" class="h-screen">
+  <div id="app" class="h-screen bg-gray-200">
     <div class="float-left h-full" style="width: 10%">
       <navbar />
     </div>
-    <div class="float-left h-full" style="width: 90%">
-      <div class="w-full bg-blue-800 h-32">
-        
-      </div>
+    <div class="float-left" style="width: 90%">
       <router-view />
     </div>
   </div>
@@ -24,7 +21,6 @@ export default {
 
 <style>
 body {
-  background-color: #edf2f7;
   height: 100%;
 }
 
